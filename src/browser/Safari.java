@@ -16,6 +16,8 @@ public class Safari {
 		//Find some element on DemoQa.com
 		WebElement element = driver.findElement(By.id("login"));
 		element.click();
+		
+		//new comment
 	}
 
 }

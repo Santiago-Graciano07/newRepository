@@ -12,7 +12,7 @@ public class Chrome {
 		
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://google.com");
-	
+
 	}
 
 }
