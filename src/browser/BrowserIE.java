@@ -9,6 +9,8 @@ public class BrowserIE {
 		driver = new InternetExplorerDriver(); 
 
 		//this is class of internet explorer
+		
+		
 	}
 
 }
